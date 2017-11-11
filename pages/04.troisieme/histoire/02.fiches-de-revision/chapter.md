@@ -9,7 +9,7 @@ content:
 
 Voici les fiches de revision d'Histoire
 
-{{ dump(page.collection[page.path]) }}
+{{ dump(page.collection) }}
 
 <ol>
 {% for p in page.collection %}
