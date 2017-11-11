@@ -1,5 +1,5 @@
 ---
-title: 'Les principes Montessori'
+title: Montessori
 visible: true
 ---
 
