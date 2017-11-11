@@ -1,5 +1,5 @@
 ---
-title: 'Civils et militaires dans la Première Guerre mondiale 2'
+title: 'Démocratie et expériences totalitaires en Europe'
 visible: true
 ---
 
