@@ -1,5 +1,5 @@
 ---
-title: '# La pédagogie est utile...'
+title: 'La pédagogie est utile...'
 ---
 
 ## si elle ne se la raconte pas
