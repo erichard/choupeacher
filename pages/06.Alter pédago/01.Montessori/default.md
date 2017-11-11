@@ -1,5 +1,4 @@
 ---
-routable: true
 visible: true
 ---
 
