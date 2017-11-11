@@ -3,8 +3,6 @@ title: 'La Seconde Guerre mondiale, une guerre d''anéantissement'
 visible: true
 ---
 
-# Démocratie et expériences totalitaires en Europe
-
 ## Je connais les mots-clés
 
 crime contre l'humanité - génocide - ghetto - Shoah - Solution finale - guerre d'anéantissement - Einsatzgruppen
