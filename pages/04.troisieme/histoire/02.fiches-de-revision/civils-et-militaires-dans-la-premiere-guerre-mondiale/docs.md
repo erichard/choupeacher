@@ -1,5 +1,6 @@
 ---
 title: 'Civils et militaires dans la Première Guerre mondiale '
+visible: true
 ---
 
 ## Je connais les mots-clés
