@@ -1,5 +1,9 @@
 ---
-title: 'Alter pédago'
+title: ''
+media_order: ''
+body_classes: ''
+order_by: ''
+order_manual: ''
 ---
 
 # La pédagogie est utile...
