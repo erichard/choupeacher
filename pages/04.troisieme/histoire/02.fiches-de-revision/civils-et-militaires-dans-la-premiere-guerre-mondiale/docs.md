@@ -18,3 +18,5 @@ la violence et l’ampleur de la guerre Les civils pendant la guerre ce qu’est
 ## Quelques questions pour vérifier
 
 Quelles sont les deux alliances qui s’opposent en 1914 ? Indiquez trois éléments montrant que le quotidien des soldats est difficile. Quelles nouvelles armes font leur apparition ? Citez trois types de souffrances subies par les civils. Quelle population est victime d’un génocide en 1915-1916 ? Citez trois aspects de la mobilisation de l’arrière pour la guerre. Pourquoi parle-t-on d’une guerre totale ?
+
+{{ printfriendly(page.route) }}
