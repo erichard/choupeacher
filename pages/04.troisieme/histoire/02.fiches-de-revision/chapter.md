@@ -11,6 +11,6 @@ Voici les fiches de revision d'Histoire
 
 <ol>
 {% for p in page.collection %}
-    <li><a href="{{ p.path }}">{{ p.title }}</a></li>
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endfor %}
 </ol>
