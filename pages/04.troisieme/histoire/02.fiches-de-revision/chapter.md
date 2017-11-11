@@ -1,5 +1,8 @@
 ---
 title: 'Fiches de revision'
+process:
+    twig: true
+    markdown: false
 content:
     items: '@self.children'
 ---
