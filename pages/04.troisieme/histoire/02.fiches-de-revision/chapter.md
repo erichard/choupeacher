@@ -1,5 +1,5 @@
 ---
-title: 'Fiches de révision'
+title: 'Civils et militaires dans la Première Guerre mondiale'
 ---
 
 ## Civils et militaires dans la Première Guerre mondiale
