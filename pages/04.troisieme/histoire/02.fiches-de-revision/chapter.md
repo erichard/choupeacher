@@ -9,10 +9,8 @@ content:
 
 Voici les fiches de revision d'Histoire
 
-{{ dump(page.collection) }}
-
 <ol>
 {% for p in page.collection %}
-    <li><a href="{{ '' }}">{{ p.title }}</a></li>
+    <li><a href="{{ p.page() }}">{{ p.title }}</a></li>
 {% endfor %}
 </ol>
