@@ -14,6 +14,7 @@ Pourquoi aller à l'Ecole, six heures par jour pendant 15 ans, puisque tous les 
 # Je ne suis pas enseignante  pour...
 
 * Que des élèves bêlent des leçons récitées par coeur
+* Former des exécutants plus ou moins élevés dans l'échelle sociale
 * Que des élèves appliquent des recettes
 * Les vacances ( puisqu'il faudra bien en parler à moment donné ! )
 
