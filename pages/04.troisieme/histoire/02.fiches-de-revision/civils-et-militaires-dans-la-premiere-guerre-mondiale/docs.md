@@ -1,5 +1,8 @@
 ---
 title: 'Civils et militaires dans la Première Guerre mondiale '
+process:
+    markdown: true
+    twig: true
 visible: true
 ---
 
