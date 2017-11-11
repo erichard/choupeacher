@@ -38,11 +38,11 @@ Janvier 1945 : Libération d'Auschwitz
 
 Novembre 1945 : Début du procès de Nuremberg
 
-*Heinrich Himmler* : Chef des SS, l'organisation paramilitaire nazie. Il organise l'extermination des Juifs.
+**Heinrich Himmler** : Chef des SS, l'organisation paramilitaire nazie. Il organise l'extermination des Juifs.
 
-*Adolf Eichmann* : Responsable SS chargé de la déportation des Juifs à partir de 1942 en Europe occupée. Il est jugé et exécuté en Israël en 1962.
+**Adolf Eichmann** : Responsable SS chargé de la déportation des Juifs à partir de 1942 en Europe occupée. Il est jugé et exécuté en Israël en 1962.
 
-*Primo Levi* : Résistant juif italien arrêté et déporté à Auschwitz en 1943. Survivant, il écrit Si c'est un homme, un témoignage sur l'atrocité des camps.
+**Primo Levi** : Résistant juif italien arrêté et déporté à Auschwitz en 1943. Survivant, il écrit Si c'est un homme, un témoignage sur l'atrocité des camps.
 
 ## Quelques questions pour vérifier
 
