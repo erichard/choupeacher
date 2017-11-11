@@ -7,6 +7,10 @@ content:
     items: '@self.children'
 ---
 
+Voici les fiches de revision d'Histoire
+
+<ol>
 {% for p in page.collection %}
-<h2>{{ p.title }}</h2>
+<li>{{ p.title }}</li>
 {% endfor %}
+</ol>
