@@ -1,5 +1,5 @@
 ---
-title: '28 janvier 2018. Vous zavez compris ? '
+title: 'Vous zavez compris ? '
 visible: true
 ---
 
